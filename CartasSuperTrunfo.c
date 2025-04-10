@@ -31,7 +31,7 @@ int main() {
     printf("Número de pontos turisticos: ");
     scanf("%d", &npontos1);
 
-    printf("Digite 'OK' para cncluir o cadastro: \n");
+    printf("CIDADE CADASTRADA COM SUCESSO! \n \n");
 
     // Exibição da carta A01 (cidade 1):
     printf("CIDADE A01 - %s \n População: %d \n Área: %f \n PIB: %f \n Número de pontos turísticos: %d \n \n", cidade1, populacao1, area1, PIB1, npontos1);
